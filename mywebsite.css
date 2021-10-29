@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css?family=Work+Sans:400,600');
 body {
 	margin: 0;
-	background:rgb(32, 119, 148);
+	background: rgb(218, 216, 216);
 	font-family: 'Work Sans', sans-serif;
 	font-weight: 800;
 }
@@ -82,11 +82,14 @@ main {
 }
 .container2 {
     width: 500px;
-    background-color: teal;
+    background-color: lightgreen;
     height: 500px;
     border-radius: 20px;
 }
 h3 {
     text-align: center;
 
+}
+.text {
+  text-align: center;
 }
