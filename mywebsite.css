@@ -86,10 +86,11 @@ h1 {
     height: 125px;
     border-radius: 20px;
 }
-.text {
+.container5 > p {
   text-align: center;
   padding-top: 10px;
   color: darkcyan;
+  font-size: 20px;
 }
 .container3 > p {
   text-align: center;
@@ -118,4 +119,10 @@ img {
 }
 .container4 {
   display: flex;
+}
+.container5 {
+  background-color: lightgreen;
+  width: 500px;
+  height: 500px;
+  border-radius: 20px;
 }
