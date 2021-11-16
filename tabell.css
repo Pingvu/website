@@ -1,0 +1,27 @@
+table, th, td{
+    border:1px solid black;
+    border-collapse: collapse;
+    width: 1000px;
+    height: 50px;
+    padding: 20px;
+}
+.color{
+    background-color: antiquewhite;
+}
+.color1{
+    background-color: orange;
+}
+.color2{
+    background-color: red;
+    color: white;
+}
+.text1{
+    text-align: left;
+}
+.text2{
+    text-align: right;
+}
+main {
+    margin-left: 25%;
+    margin-top: 20px;
+}

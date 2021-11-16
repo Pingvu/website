@@ -77,7 +77,7 @@ h1 {
 }
 .main1 {
     align-items: center;
-    margin-left: 37%;
+    margin-left: 28%;
 
 }
 .container2 {
@@ -86,18 +86,15 @@ h1 {
     height: 125px;
     border-radius: 20px;
 }
-.container5 > p {
-  text-align: center;
-  padding-top: 10px;
-  color: darkcyan;
-  font-size: 20px;
-}
+
 .container3 > p {
-  text-align: center;
+  color: black;
+  font-size: 20px;
+  padding: 10px;
 }
 .text3 {padding-left: 10px;}
 .container3 {
-  background-color: lightgreen;
+  background-color: white;
   width: 500px;
   height: 200px;
   border-radius: 20px;
@@ -121,8 +118,21 @@ img {
   display: flex;
 }
 .container5 {
-  background-color: lightgreen;
-  width: 500px;
-  height: 500px;
+  background-color: white;
+  width: 800px;
+  height: 300px;
   border-radius: 20px;
+}
+.text {
+     text-align: center;
+     padding: 10px;
+     color: teal;
+}
+.container5 > p {
+  color: black;
+  font-size: 20px;
+  padding: 10px;
+}
+.main3 {
+  margin-left: 37%;
 }
