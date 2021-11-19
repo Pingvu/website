@@ -1,0 +1,12 @@
+.container6 {
+    display: grid;
+    grid-template-columns: 75px 75px 75px 75px;
+    grid-template-rows: auto;
+    background-color: black;
+    margin-left: 25%;
+}
+.noll {
+    grid-column: 1 / span 4;
+    grid-row: 1;
+    
+}
