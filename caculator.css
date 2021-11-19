@@ -71,4 +71,101 @@
     text-align: center;
     padding-top: 20%;
     border-radius: 35%;
+    
+}
+.mul {
+    grid-column: 4;
+    grid-row: 3 ;
+    background-color: yellow;
+    text-align: center;
+    padding-top: 20%;
+    border-radius: 35%;
+}
+.pho {
+    grid-column: 1;
+    grid-row: 4 ;
+    background-color: lightgray;
+    text-align: center;
+    padding-top: 20%;
+    border-radius: 35%;
+}
+.five {
+    grid-column: 2;
+    grid-row: 4 ;
+    background-color: lightgray;
+    text-align: center;
+    padding-top: 20%;
+    border-radius: 35%;
+}
+.segg {
+    grid-column: 3;
+    grid-row: 4 ;
+    background-color: lightgray;
+    text-align: center;
+    padding-top: 20%;
+    border-radius: 35%;
+}
+.minus {
+    grid-column: 4;
+    grid-row: 4 ;
+    background-color: yellow;
+    text-align: center;
+    padding-top: 20%;
+    border-radius: 35%;
+}
+.one {
+    grid-column: 1;
+    grid-row: 5 ;
+    background-color: lightgray;
+    text-align: center;
+    padding-top: 20%;
+    border-radius: 35%;
+}
+.two {
+    grid-column: 2;
+    grid-row: 5 ;
+    background-color: lightgray;
+    text-align: center;
+    padding-top: 20%;
+    border-radius: 35%;
+}
+.three {
+    grid-column: 3;
+    grid-row: 5 ;
+    background-color: lightgray;
+    text-align: center;
+    padding-top: 20%;
+    border-radius: 35%;
+}
+.plus {
+    grid-column: 4;
+    grid-row: 5 ;
+    background-color: yellow;
+    text-align: center;
+    padding-top: 20%;
+    border-radius: 35%;
+}
+.zero {
+    grid-column: 1 / span 2;
+    grid-row: 6 ;
+    background-color: lightgray;
+    text-align: center;
+    padding-top: 10%;
+    border-radius: 40%;
+}
+.dot {
+    grid-column: 3;
+    grid-row: 6 ;
+    background-color: lightgray;
+    text-align: center;
+    padding-top: 20%;
+    border-radius: 35%;
+}
+.equal {
+    grid-column: 4;
+    grid-row: 6 ;
+    background-color: yellow;
+    text-align: center;
+    padding-top: 20%;
+    border-radius: 35%;
 }
